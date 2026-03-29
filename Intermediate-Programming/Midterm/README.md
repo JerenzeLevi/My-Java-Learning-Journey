@@ -1,7 +1,7 @@
 # Midterm Activities
 
 ## 📖 Overview
-This folder contains my midterm activities in Fundamentals of Programming.
+This folder contains my midterm activities in Intermediate Programming.
 
 ## 📚 Coverage
 - Methods
